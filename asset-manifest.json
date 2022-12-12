@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.554dd349.chunk.css",
+    "main.js": "/static/js/main.a17599f6.chunk.js",
+    "main.js.map": "/static/js/main.a17599f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb010161.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb010161.js.map",
+    "static/css/2.997cc425.chunk.css": "/static/css/2.997cc425.chunk.css",
+    "static/js/2.de7a9a69.chunk.js": "/static/js/2.de7a9a69.chunk.js",
+    "static/js/2.de7a9a69.chunk.js.map": "/static/js/2.de7a9a69.chunk.js.map",
+    "static/js/3.14a444b8.chunk.js": "/static/js/3.14a444b8.chunk.js",
+    "static/js/3.14a444b8.chunk.js.map": "/static/js/3.14a444b8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.997cc425.chunk.css.map": "/static/css/2.997cc425.chunk.css.map",
+    "static/css/main.554dd349.chunk.css.map": "/static/css/main.554dd349.chunk.css.map",
+    "static/js/2.de7a9a69.chunk.js.LICENSE.txt": "/static/js/2.de7a9a69.chunk.js.LICENSE.txt",
+    "static/media/custom.css": "/static/media/ricebg.7dafd829.jpg",
+    "static/media/navlogo.328e9e65.svg": "/static/media/navlogo.328e9e65.svg",
+    "static/media/navlogoscroll.738b76c8.svg": "/static/media/navlogoscroll.738b76c8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb010161.js",
+    "static/css/2.997cc425.chunk.css",
+    "static/js/2.de7a9a69.chunk.js",
+    "static/css/main.554dd349.chunk.css",
+    "static/js/main.a17599f6.chunk.js"
+  ]
+}
